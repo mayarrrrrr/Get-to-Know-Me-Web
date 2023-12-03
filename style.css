@@ -1,0 +1,22 @@
+section{
+   background-color:rgb(233, 218, 201);
+   padding: 1px;
+   border-radius: 20px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   
+}
+p{
+    font-size: 20px;
+    margin-left: 10px;
+}
+li{
+    font-size: 20px;
+    
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: gray;
+}
